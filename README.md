@@ -14,6 +14,8 @@ if you want to add a new one make a merge request, you have a idea for 1? great!
 	 - [ ] ai
 	 - [ ] machine learning
 	 - [ ] libaries like pandas, seabord etc
+	 - [ ] math
+	 - [ ] how to make virtual enviorment
 - [ ] Make JavaScript
 - [ ] Make Java
 - [ ] Make R
